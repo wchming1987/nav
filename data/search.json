@@ -17,21 +17,21 @@
   {
     "name": "Google",
     "url": "https://www.google.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/google.svg",
+    "icon": "https://www.google.com/favicon.ico",
     "blocked": false,
     "isInner": false
   },
   {
     "name": "必应",
     "url": "https://cn.bing.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
+    "icon": "https://cn.bing.com/favicon.ico",
     "blocked": false,
     "isInner": false
   },
   {
     "name": "GitHub",
     "url": "https://github.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/github.svg",
+    "icon": "https://github.com/favicon.ico",
     "placeholder": "Search GitHub",
     "blocked": false,
     "isInner": false
@@ -39,14 +39,14 @@
   {
     "name": "知乎",
     "url": "https://www.zhihu.com/search?type=content&q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/zhihu.svg",
+    "icon": "https://static.zhihu.com/heifetz/favicon.ico",
     "blocked": false,
     "isInner": false
   },
   {
     "name": "豆瓣",
     "url": "https://search.douban.com/book/subject_search?search_text=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/douban.svg",
+    "icon": "https://www.douban.com/favicon.ico",
     "placeholder": "书名、作者、ISBN",
     "blocked": false,
     "isInner": false
